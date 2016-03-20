@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\My Sample App\\WakeUp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample.xml",
+        "source": "E:\\My Sample App\\WakeUp\\app\\src\\main\\res\\layout\\sample.xml"
+    },
+    {
+        "merged": "E:\\My Sample App\\WakeUp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wake_up.xml",
+        "source": "E:\\My Sample App\\WakeUp\\app\\src\\main\\res\\layout\\activity_wake_up.xml"
+    }
+]

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\My Sample App\WakeUp\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\5\main_sliceb.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="732f23e1245a8a1ea0ed4b33e137fe32f89b1cec">
+        <dex dex="E:\My Sample App\WakeUp\app\build\intermediates\transforms\dex\debug\folders\1000\5\main_sliceb_2a0e743710e367ec7ff280ad8d25813f09520ea6\classes.dex" />
+    </item>
+    <item
+        jar="E:\My Sample App\WakeUp\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\5\main_slice.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="aac94be92e729010240a5401aa8ee182e7fa241b">
+        <dex dex="E:\My Sample App\WakeUp\app\build\intermediates\transforms\dex\debug\folders\1000\5\main_slice_08d80a82b89fcfcbe2415e90c933806c51976e21\classes.dex" />
+    </item>
+    <item
+        jar="E:\My Sample App\WakeUp\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\1a\dependencies.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="931a36991856265ae899cee141b61a63234509b2">
+        <dex dex="E:\My Sample App\WakeUp\app\build\intermediates\transforms\dex\debug\folders\1000\1a\dependencies_52a15801b28981f94d1591c59859ac270e47a65a\classes.dex" />
+    </item>
+
+</items>

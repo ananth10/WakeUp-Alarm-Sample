@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:2:1-37:12
+	xmlns:android
+		ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:11:5-35:19
+	android:label
+		ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.ananth.example.wakeup.WakeUpActivity
+ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:17:13-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:22:27-74
+receiver#com.ananth.example.wakeup.SampleAlarmReceiver
+ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:26:10-67
+	android:name
+		ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:26:20-55
+receiver#com.ananth.example.wakeup.SampleBootReceiver
+ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:28:10-33:20
+	android:enabled
+		ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:29:17-40
+	android:name
+		ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:28:20-54
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:30:13-32:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:31:13-82
+	android:name
+		ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:31:21-72
+activity#com.ananth.example.wakeup.DialogActivity
+ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:34:10-98
+	android:screenOrientation
+		ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:34:20-56
+	android:name
+		ADDED from E:\My Sample App\WakeUp\app\src\main\AndroidManifest.xml:34:57-86
